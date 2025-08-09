@@ -1,0 +1,6 @@
+.venv
+__pycache__
+api/models/
+node_modules
+web/.nuxt
+.DS_Store
